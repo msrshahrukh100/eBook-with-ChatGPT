@@ -9,6 +9,6 @@
 
 ### Tutorial Video 
 [Youtube Video](https://www.youtube.com/watch?v=JAymexkHo1k)
-[![IMAGE ALT TEXT](https://github.com/msrshahrukh100/Talk2GPT/blob/main/chatgptwithvoicethumbnail.png)](https://www.youtube.com/watch?v=JAymexkHo1k)
+[![IMAGE ALT TEXT](https://raw.githubusercontent.com/msrshahrukh100/eBook-with-ChatGPT/main/thumbnail.png)](https://www.youtube.com/watch?v=JAymexkHo1k)
 
 ### To run this Python Program follow 
